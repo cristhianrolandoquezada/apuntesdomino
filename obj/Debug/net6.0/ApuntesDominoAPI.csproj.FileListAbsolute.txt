@@ -1,0 +1,134 @@
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ApuntesDominoAPI.csproj.AssemblyReference.cache
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ApuntesDominoAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ApuntesDominoAPI.AssemblyInfoInputs.cache
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ApuntesDominoAPI.AssemblyInfo.cs
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ApuntesDominoAPI.csproj.CoreCompileInputs.cache
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ApuntesDominoAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ApuntesDominoAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ApuntesDominoAPI.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\refint\ApuntesDominoAPI.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ApuntesDominoAPI.pdb
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\appsettings.json
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\ApuntesDominoAPI.exe
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\ApuntesDominoAPI.deps.json
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\ApuntesDominoAPI.runtimeconfig.json
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\ApuntesDominoAPI.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\ApuntesDominoAPI.pdb
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\staticwebassets\msbuild.ApuntesDominoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ApuntesDominoAPI.props
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApuntesDominoAPI.props
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApuntesDominoAPI.props
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\scopedcss\bundle\ApuntesDominoAPI.styles.css
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ApuntesDominoAPI.csproj.CopyComplete
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ApuntesDominoAPI.genruntimeconfig.cache
+D:\Marcos Profesionales\Albatech\Cristhian\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ref\ApuntesDominoAPI.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\appsettings.json
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\ApuntesDominoAPI.exe
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\ApuntesDominoAPI.deps.json
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\ApuntesDominoAPI.runtimeconfig.json
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\ApuntesDominoAPI.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\ApuntesDominoAPI.pdb
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Humanizer.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ApuntesDominoAPI.csproj.AssemblyReference.cache
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ApuntesDominoAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ApuntesDominoAPI.AssemblyInfoInputs.cache
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ApuntesDominoAPI.AssemblyInfo.cs
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ApuntesDominoAPI.csproj.CoreCompileInputs.cache
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ApuntesDominoAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ApuntesDominoAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\staticwebassets\msbuild.ApuntesDominoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ApuntesDominoAPI.props
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApuntesDominoAPI.props
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApuntesDominoAPI.props
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\scopedcss\bundle\ApuntesDominoAPI.styles.css
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ApuntesDominoAPI.csproj.CopyComplete
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ApuntesDominoAPI.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\refint\ApuntesDominoAPI.dll
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ApuntesDominoAPI.pdb
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ApuntesDominoAPI.genruntimeconfig.cache
+E:\Dart\ApuntesDominoAPI\ApuntesDominoAPI\obj\Debug\net6.0\ref\ApuntesDominoAPI.dll
